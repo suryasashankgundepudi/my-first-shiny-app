@@ -13,9 +13,9 @@ This simple problem is something that has troubled mathematicians for a long tim
 
 The function goes as follows 
 ```math
-     f(x) = 3x + 1  --- x\% 2 = 1
+     f(x) = 3x + 1  if x% 2 = 1
     
-     f(x) =  x/2 --- x\% 2 =0
+     f(x) =  x/2 if x% 2 =0
 ```
 
 The conjecture states that for any natural number you take you will always reach 
