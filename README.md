@@ -12,11 +12,12 @@ This simple problem is something that has troubled mathematicians for a long tim
 *Mathematics is not ripe enough for a problem like this*. 
 
 The function goes as follows 
+```math
+     f(x) = 3x + 1  --- x\% 2 = 1
+    
+     f(x) =  x/2 --- x\% 2 =0
+```
 
-    $$f(x) = 3x + 1  --- x\\%\ 2 = 1$$
-    
-    $$f(x) =  x/2 --- x\\%\ 2 =0$$
-    
 The conjecture states that for any natural number you take you will always reach 
 the 4, 2, 1, loop. This is because when you get to 4, you must divide by 2
 and then for 2 you must divide to get 1 and since 1 is odd you must multiply it
