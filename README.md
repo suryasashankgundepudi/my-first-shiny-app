@@ -26,10 +26,10 @@ function for the selected input.
 
 # Aknowledgements 
 I was inspired to take up this project as my first shiny app after watching a video posted by veritasium 
-on Youtube. You can find their video [here].(https://www.youtube.com/watch?v=094y1Z2wpJg) 
+on Youtube. You can find their video [here](https://www.youtube.com/watch?v=094y1Z2wpJg) 
 
 I would also like to thank the Data Professor for helping me learn the basics of Shiny for my first Shiny application. I have followed most of this course
 to implement the code written here. 
-You can find the Shiny playlist [here].(https://www.youtube.com/watch?v=tfN10IUX9Lo&list=PLtqF5YXg7GLkxx_GGXDI_EiAvkhY9olbe&index=2)
+You can find the Shiny playlist [here](https://www.youtube.com/watch?v=tfN10IUX9Lo&list=PLtqF5YXg7GLkxx_GGXDI_EiAvkhY9olbe&index=2)
 
-For learning about the zoom function please visit this [link].(https://shiny.rstudio.com/gallery/plot-interaction-zoom.html)
+For learning about the zoom function please visit this [link](https://shiny.rstudio.com/gallery/plot-interaction-zoom.html)
