@@ -1,6 +1,6 @@
 # My first Shiny application.
 
-### *You can find the application live here. In case it isn't live please mail me [here].(mailto: gundepudi18047@mech.ssn.edu.in)
+### *You can find the application live here. In case it isn't live please mail me [here].(gundepudi18047@mech.ssn.edu.in)
 This is my first shiny application. I started out learning R programming at the beginning of this year and wanted to deploy
 data science projects or financial analysis tools as a web application. Recently, I came across the Shiny package in R and
 wanted to start working with and deploy a basic and interactive line plot. Hence I plotted the movement of the Collatz 
