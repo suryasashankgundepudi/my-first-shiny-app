@@ -2,7 +2,7 @@
 
 [](https://i2.wp.com/opencurve.info/wp-content/uploads/2020/04/featured-image-collatz-harriss-e1588439815159.jpeg?resize=1920%2C768&ssl=1)
 
-**You can find the application live [HERE](https://gv9wj.shinyapps.io/The_Collatz_Conjecture/). In case it isn't live please mail me at gundepudi18047@mech.ssn.edu.in **
+**You can find the application live  **[HERE](https://gv9wj.shinyapps.io/The_Collatz_Conjecture/). In case it isn't live please mail me at gundepudi18047@mech.ssn.edu.in
 
 This is my first shiny application. I started out learning R programming at the beginning of this year and wanted to deploy
 data science projects or financial analysis tools as a web application. Recently, I came across the Shiny package in R and
